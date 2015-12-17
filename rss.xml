@@ -4,15 +4,8 @@
         <description><![CDATA[Tech News On Grid]]></description>
         <link>https://thegrid.ai/tech-news-on-grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 19:54:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Dec 2015 19:53:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tech-news-on-grid/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Woman has baby boy in back of Uber car, names him 'Uber']]></title>
-            <description><![CDATA[<article><h1>Woman has baby boy in back of Uber car, names him 'Uber'</h1><p>Picture the scene. A woman goes into labor at home, but repeated emergency calls for an ambulance go unanswered. In desperation, she calls an Uber to get her and two friends to the nearest hospital.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/45b3d41d6e6ea65f335f1d65c347a08a3c87bab8.jpg"></article>]]></description>
-            <link>http://www.digitaltrends.com/mobile/woman-has-baby-boy-in-back-of-uber-car-names-him-uber/</link>
-            <guid isPermaLink="false">da0f5375-9034-47b9-b8a3-4f5cb263a626</guid>
-            <pubDate>Thu, 17 Dec 2015 19:52:13 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[This guy on Product Hunt has just killed Facebook's business model]]></title>
             <description><![CDATA[<article><h1>This guy on Product Hunt has just killed Facebook's business model</h1><p>A Chrome extension from serial dev Juraj Ivan has just gone live on Product Hunt with the goal of getting rid of any unwanted Facebook posts by filtering to only show posts by your friends and updates from pages you follow. It means you won't see any other posts, including ads, unless you follow a particular brand.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a54c118cd95bf37b9bfe53ebb1a83b0bc7da9554.png"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>You can now log in with your face using Tobii devices and Windows Hello</h1><p>Microsoft's Windows Hello is a smart feature, letting Windows 10 users sign into their machines with just their face But it's only available on the newest devices with special depth-sensing cameras or, if you buy Intel's RealSense developer kit.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fee433c8cf918196d1426534cff31d6462da4fa0.png"></article>]]></description>
             <link>http://www.theverge.com/2015/12/17/10369936/windows-hello-tobii-support</link>
             <guid isPermaLink="false">f6eab5c2-9aeb-4fef-9e3c-038eb155735c</guid>
+            <pubDate>Thu, 17 Dec 2015 19:52:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tastemade Raises $40 Million From Goldman Sachs To Make Food Videos]]></title>
+            <description><![CDATA[<article><h1>Tastemade Raises $40 Million From Goldman Sachs To Make Food Videos</h1><p>Tastemade, the maker of food and lifestyle videos, has raised a $40 million financing round led by Goldman Sachs. Participating investors in the Series D round include, Redpoint Ventures, Comcast Ventures, Liberty Media and Scripps Networks.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/31f1049c435c0189b9eb96c0d55f8c5f8a45ae22.png"></article>]]></description>
+            <link>http://techcrunch.com/2015/12/17/tastemade-raises-40-million-from-goldman-sachs-to-make-food-videos/</link>
+            <guid isPermaLink="false">9fdffd3e-d4d1-4d08-b893-c491f8d1187d</guid>
             <pubDate>Thu, 17 Dec 2015 19:52:11 GMT</pubDate>
         </item>
     </channel>
