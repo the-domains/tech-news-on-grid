@@ -1,7 +1,7 @@
 name: Tech News On Grid
 favicon: null
-layout_spectrum: 0.851666750619188
-typography_spectrum: 0.4656314942985773
+layout_spectrum: 0.72998
+typography_spectrum: 0.63251
 title: Tech News On Grid
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.54732755292207
-  lightness: 0.2625998882576823
-  saturation: 0.43228882644325495
-  rhythmicContrast: 0.1529560333583504
+  brandStrength: 0.625
+  lightness: 0.5625
+  saturation: 0.6875
+  rhythmicContrast: 0.5
 purpose: []
