@@ -4,8 +4,15 @@
         <description><![CDATA[Tech News On Grid]]></description>
         <link>https://thegrid.ai/tech-news-on-grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 19:54:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Dec 2015 19:54:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tech-news-on-grid/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Report: Samsung and LG to pass on 4K smartphone smartphones in 2016]]></title>
+            <description><![CDATA[<article><h1>Report: Samsung and LG to pass on 4K smartphone smartphones in 2016</h1><p>Whereas last week brought a bounty of beautiful renders - allegedly - showing the Galaxy S7 and Galaxy S7 Plus, this week brings with it some news about the screen spec situation. According to a new report circulating around the internet, and purportedly based on Korean sources, both Samsung and LG will be forgoing 4K smartphone displays next year, instead focusing on the QHD panels already in production.</p><img src="http://cdn02.androidauthority.net/wp-content/uploads/2014/10/4K-display-resolution.jpg"></article>]]></description>
+            <link>http://www.androidauthority.com/report-samsung-and-lg-to-pass-on-4k-smartphone-smartphones-in-2016-663208/</link>
+            <guid isPermaLink="false">c290295d-3eb6-45e3-aa05-ee0f9bfd7edc</guid>
+            <pubDate>Thu, 17 Dec 2015 19:52:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Elon Musk says George Hotz's self-driving car technology isn't a threat]]></title>
             <description><![CDATA[<article><h1>Elon Musk says George Hotz's self-driving car technology isn't a threat</h1><p>Can you issue a correction to an article you didn't publish? It's not clear, but Tesla and Elon Musk are certainly giving it a go. The company has published a " correction" to a story yesterday in Bloomberg Businessweek about former iPhone hacker George Hotz reportedly creating his own self-driving car software in his garage.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6b392ee764297216454c3b289074bc602562f593.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Unsecured websites are about to get hammered in Google's search ranking</h1><p>In a bid to further protect its users from cyber attacks, Google has announced that it will start prioritizing secure HTTPS URLs over regular HTTP ones even if they don't have any links pointing to them. Typically having lots of relevant links has been among the top 'techniques' for sites to rise in Google's ranking.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/820fb7a71b43c383bfe35f12393d55ed25716eba.jpg"></article>]]></description>
             <link>http://thenextweb.com/google/2015/12/17/unsecured-websites-are-about-to-get-hammered-in-googles-search-ranking/</link>
             <guid isPermaLink="false">6dc23834-b3de-43cf-99ec-0f0e829efb01</guid>
-            <pubDate>Thu, 17 Dec 2015 19:52:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Physics in Star Wars Isn't Always Right, and That's OK]]></title>
-            <description><![CDATA[<article><h1>The Physics in Star Wars Isn't Always Right, and That's OK</h1><p>Star Wars: The Force Awakens is finally in theaters (or at least it's close enough). I wanted to take a moment to clear up a few points. Don't worry-this will be a SPOILER FREE post since I haven't even seen the new movie.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/40316b1a466883f7edcb126909c2c902b80b7f1e.jpg"></article>]]></description>
-            <link>http://www.wired.com/2015/12/the-physics-in-star-wars-isnt-always-right-and-thats-ok/</link>
-            <guid isPermaLink="false">4bae258e-bc84-4760-8b96-ea4bbb9bd390</guid>
             <pubDate>Thu, 17 Dec 2015 19:52:12 GMT</pubDate>
         </item>
     </channel>
