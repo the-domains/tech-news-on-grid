@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Tech News On Grid]]></title>
+        <description><![CDATA[Tech News On Grid]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 17 Dec 2015 19:37:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Internet Rejoices as Reviled Pharma Kingpin Martin Shkreli Is Arrested]]></title>
+            <description><![CDATA[<article><h1>Internet Rejoices as Reviled Pharma Kingpin Martin Shkreli Is Arrested</h1><p>The Twitter masses are rarely, if ever, in agreement. Which is what makes today so momentous, for today is the day that Martin Shkreli, who may be the most hated man of 2015, was arrested. For this one day, the people of the Internet put aside their differences and celebrated.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c4354b82950fd053db6de56b8b60f3fcbfa2b15a.jpg"></article>]]></description>
+            <link>http://www.wired.com/2015/12/martin-shkreli-arrest/</link>
+            <guid isPermaLink="false">5631b124-5744-403b-9ca3-1aa41336b4df</guid>
+            <pubDate>Thu, 17 Dec 2015 19:37:11 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
